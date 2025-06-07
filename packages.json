@@ -6,5 +6,13 @@
     {
         "package": "healthatlas",
         "url": "https://github.com/ryanzomorrodi/healthatlas"
+    },
+    {
+        "package": "socratadata",
+        "url": "https://github.com/ryanzomorrodi/socratadata"
+    },
+    {
+        "package": "sasquatch",
+        "url": "https://github.com/ryanzomorrodi/sasquatch"
     }
 ]
